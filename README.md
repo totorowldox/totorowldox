@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello! Remo desu ヾ(^▽^*)))! 
 
 <!--
 **totorowldox/totorowldox** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,17 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=totorowldox&show_icons=true&theme=material-palenight&count_private=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=totorowldox&theme=material-palenight&count_private=true&hide=javascript,html,css" />
-</a>
+- Founder of [Re:PhityOS](https://github.com/REPhigrOS-DevTeam), a Phigros fanmade beatmap player
 
-<!--
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=totorowldox&show_icons=true&theme=material-palenight" />
-</a>
--->
+#### Language
+![Language](https://skillicons.dev/icons?i=cpp,cs,rust,py&theme=light)
+
+#### Framework
+![Framework](https://skillicons.dev/icons?i=net,unity&theme=light)
+
+#### Tool
+![Tool](https://skillicons.dev/icons?i=visualstudio,vscode,clion,rider&theme=light)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=totorowldox&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy)

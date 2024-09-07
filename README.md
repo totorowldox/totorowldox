@@ -13,4 +13,7 @@
 #### Tool
 ![Tool](https://skillicons.dev/icons?i=visualstudio,vscode,clion,rider&theme=light)
 
+#### OS
+![OS](https://skillicons.dev/icons?i=windows,nix&theme=light)
+
 <!-- [![trophy](https://github-profile-trophy.vercel.app/?username=totorowldox&theme=dracula)](https://github.com/ryo-ma/github-profile-trophy) -->

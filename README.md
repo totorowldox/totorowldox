@@ -1,8 +1,18 @@
-### Hello! Remo desu ヾ(^▽^*)))! 
+## Hello! Remo desu ヾ(^▽^*)))! 
 
 <img align="right" src="https://raw.githubusercontent.com/totorowldox/totorowldox/main/yuiki.jpg" width="30%" title="Yuiki by X: @cutlass_charcot"/>
 
-- Founder of [Re:PhityOS](https://github.com/REPhigrOS-DevTeam), a Phigros fanmade beatmap player
+### Programming Experience
+- C#, Unity developer.
+- Functional programming enthusiast.
+- Exploring modern C++ (C++20).
+- Limited web development experience.
+
+### About me
+- Visual Novel enjoyer.
+- Rhythm game lover.
+- Amateur piano player.
+- Music enthusiast.
 
 #### Language
 ![Language](https://skillicons.dev/icons?i=cpp,cs,rust,py&theme=light)
